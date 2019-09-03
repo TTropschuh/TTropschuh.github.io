@@ -52,6 +52,7 @@ body {
   font-size: 70pt;
     font-family: 'Roboto Mono', monospace;
     opacity: 0.3;
+   color:white;
 }
 
 #titel_2{
@@ -74,7 +75,85 @@ body {
     font-family: 'Roboto Mono', monospace;
 }
 
+#titel_5{
+
+
+color:black;
+font-size: 30pt;
+  font-family: 'Roboto Mono', monospace;
+  writing-mode: vertical-rl;
+text-orientation: mixed;
+text-decoration: none;
+display: block;
+margin-left:0;
+margin-top: auto;
+float:left;
+}
+
+#titel_6{
+
+
+color:black;
+font-size: 60pt;
+  font-family: 'Roboto Mono', monospace;
+  writing-mode: vertical-rl;
+text-orientation: mixed;
+text-decoration: none;
+display: block;
+margin-top: auto;
+float:left;
+}
+
+#titel_7{
+
+
+color:black;
+font-size: 70pt;
+  font-family: 'Roboto Mono', monospace;
+  writing-mode: vertical-rl;
+text-orientation: mixed;
+text-decoration: none;
+display: block;
+margin-top: auto;
+float:left;
+}
+
+#titel_8{
+
+
+color:black;
+font-size: 90pt;
+  font-family: 'Roboto Mono', monospace;
+  writing-mode: vertical-rl;
+text-orientation: mixed;
+text-decoration: none;
+display: block;
+margin-top: auto;
+float:left;
+
+}
+
 .main{
 
     align-items: center;
+}
+
+
+#titel_0{
+
+text-align:center;
+color:white;
+font-size: 70pt;
+  font-family: 'Roboto Mono', monospace;
+
+
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  width: 80%;
+  position: relative;
+  z-index: -1;
 }
